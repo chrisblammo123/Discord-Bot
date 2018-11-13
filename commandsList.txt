@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------
+Command Name : Ping
+Description  : Test Command
+Usage        : !ping
+-------------------------------------------------------------------------
+Command Name : Github
+Description  : Returns github repo for the bot.
+Usage        :	!github
+-------------------------------------------------------------------------
+Command Name : Info/Help
+Description  : Returns info about the bot.
+Usage        : !info or !help
+-------------------------------------------------------------------------
+Command Name : Commands
+Description  : Sends a private message with the list of commands.
+Usage        : !commands
+-------------------------------------------------------------------------
+Command Name : Nick
+Description  : Changes user's nickname.
+Usage        : !nick [nickname]
+-------------------------------------------------------------------------
+Command Name : Kick
+Description  : Kicks specified user
+Usage        : !kick [member] [reason]
+-------------------------------------------------------------------------
+Command Name : Ban
+Description  : Bans specified user
+Usage        : !ban [member] [reason]
+-------------------------------------------------------------------------
+Command Name : Points
+Description  : Returns a user's points.
+Usage        : !points
+-------------------------------------------------------------------------
+Command Name : Level
+Description  : Returns a user's level.
+Usage        : !level
+-------------------------------------------------------------------------
+Command Name : Give
+Description  : Gives the specified user a certain amount of points.
+Usage        : !give [member] [amount]
+-------------------------------------------------------------------------
+Command Name : Leaderboard
+Description  : Returns the top 10 people as an embed.
+Usage        : !leaderboard
+-------------------------------------------------------------------------
+Command Name : 
+Description  : 
+Usage        : 
